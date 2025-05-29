@@ -1,0 +1,5 @@
+&spi3 {
+	accel_hp: accelerometer_hp: bmi270@2{
+		status = "okay";
+	};
+};
